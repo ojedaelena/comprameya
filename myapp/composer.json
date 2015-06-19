@@ -1,0 +1,10 @@
+{
+    "require-dev":{
+        "Slim/Slim": "2.*"
+    },
+    "autoload":{
+        "psr-4":{
+            "myapp\\":"src"
+        }
+    }
+}
